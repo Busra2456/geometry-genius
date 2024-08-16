@@ -22,3 +22,6 @@ const triangleAreaSpen = document.getElementById ('Triangle-area');
 triangleAreaSpen.innerText = area;
 
 }
+
+
+
